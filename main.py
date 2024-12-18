@@ -192,6 +192,8 @@ try:
     - Breakdown of expenses
     - Money-saving tips
 
+    Please provide source and relevant links without fail.
+
     Format the response in a clear, easy-to-read markdown format with headings and bullet points.
                     """
                     response = travel_agent.run(prompt)
